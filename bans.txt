@@ -1,0 +1,3 @@
+# Silver Client: keys that no longer work. One key id a line, # for a note.
+# Silva's build writes this list for him (Keys > The stopped list > Copy the list).
+# A stopped key keeps working until that player's launcher next reaches the internet.
